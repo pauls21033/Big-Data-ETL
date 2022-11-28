@@ -23,10 +23,10 @@ Part 2: Extract two Amazon customer review datasets and use either SQL or PySpar
 
 2. vine_schema.sql ---> SQL Query to build vine table
 
-# level-1 (Folder)
+# code1
 
 1.big-data-starter-code.ipynb ---> Code in google collab Notebook
 
-# level-2 (Folder)
+# code2
 
 1.big-data-level2.ipynb ---> Code in google collab Notebook
