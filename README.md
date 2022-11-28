@@ -7,15 +7,17 @@ Part 1: Extract two Amazon customer review datasets, transform each dataset into
 
 Part 2: Extract two Amazon customer review datasets and use either SQL or PySpark to analyze whether reviews from Amazon's Vine program are trustworthy.
 
-##Tools:##
+## Tools:##
+
 +pgadmin: PostgreSQL
 
 -Google collab Notebook 
 
 +Apache Spark: PySpark
 
-##Documentation & Navigation:##
-##Resources (Folder)
+## Documentation & Navigation:##
+
+# Resources (Folder)
 
 1. schema.sql ---> SQL Queries to build tables
 
