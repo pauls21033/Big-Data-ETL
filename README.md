@@ -9,24 +9,24 @@ Part 2: Extract two Amazon customer review datasets and use either SQL or PySpar
 
 ## Tools:##
 
-+pgadmin: PostgreSQL
++ pgadmin: PostgreSQL
 
--Google collab Notebook 
+- Google collab Notebook 
 
-+Apache Spark: PySpark
++ Apache Spark: PySpark
 
-## Documentation & Navigation:##
+## Documentation & Navigation: ##
 
-# Resources (Folder)
+* Resources (Folder)
 
 1. schema.sql ---> SQL Queries to build tables
 
 2. vine_schema.sql ---> SQL Query to build vine table
 
-#level-1 (Folder)
+# level-1 (Folder)
 
 1.big-data-starter-code.ipynb ---> Code in google collab Notebook
 
-#level-2 (Folder)
+# level-2 (Folder)
 
 1.big-data-level2.ipynb ---> Code in google collab Notebook
